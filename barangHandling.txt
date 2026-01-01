@@ -1,0 +1,5 @@
+buku;12000
+bulpen;2000
+penggaris;3500
+pensil;2000
+tas;450000
