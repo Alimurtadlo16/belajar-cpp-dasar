@@ -25,3 +25,27 @@ Pastikan kompilator C++ (seperti `g++`) sudah terinstal dan terkonfigurasi di *e
 
 ```bash
 g++ --version
+```
+# Langkah-langkah Run Kode
+Clone repositori ini ke komputer lokalmu:
+```bash
+git clone [https://github.com/Alimurtadlo16/NAMA_REPOSITORI_CPP_KAMU.git](https://github.com/Alimurtadlo16/NAMA_REPOSITORI_CPP_KAMU.git)
+```
+# Buka Terminal/CMD dan masuk ke folder tempat file .cpp yang ingin kamu jalankan berada.
+Kompilasi file C++ menjadi file executable menggunakan perintah:
+```bash
+g++ nama_file.cpp -o program
+```
+# Jalankan program yang sudah dikompilasi:
+Di Windows (CMD):
+```DOS
+program.exe
+```
+# Di Linux/Mac (Terminal):
+```bash
+./program
+```
+# 📚 Catatan Pembelajaran
+Seluruh baris kode di dalam repositori ini didokumentasikan sebagai bagian dari perjalanan akademik saya di Teknik Informatika, Universitas Darussalam Gontor. Proses pemecahan masalah (debugging) dari setiap error selama menyusun kode C++ ini menjadi latihan penting bagi saya untuk mengasah kemampuan problem solving teknis.
+
+Jika Anda ingin berdiskusi seputar logika algoritma C++ atau membagikan saran optimasi kode, silakan hubungi saya melalui LinkedIn.
